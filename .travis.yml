@@ -1,0 +1,8 @@
+language: node_js
+deploy:
+  provider: heroku
+  api_key:
+    secure: W75CUfTicj3B8XEmtf6RmKrDZqCumXQzYA3LJN2Xi0Ywu4x9CUnvHkpJ85NIc74HtJRkAmR8/jSFeH+N9stnoZRnjW1NtbIBKedu2j+tMcQ5Lcg+foomUnw+2jtAR6SPk6+wg5JKTFLGf5HaHOo5WTPPqpjSMKKFmlFPBUiA5Yk=
+  app: php-athena-unko
+  on:
+    repo: dameleon/hubot-athena
