@@ -15,6 +15,7 @@
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
+    "hubot-scorekeeper": "0.0.7",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^2.2.0",
