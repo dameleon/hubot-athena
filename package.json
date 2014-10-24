@@ -25,5 +25,5 @@
   },
   "scripts": {
     "test": "echo \"hogeeeeeeeee\";exit 0"
-  },
+  }
 }
