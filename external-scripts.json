@@ -7,7 +7,5 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube",
-  "hubot-zoi",
-  "hubot-scorekeeper"
+  "hubot-youtube"
 ]
