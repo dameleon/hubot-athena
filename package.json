@@ -6,6 +6,7 @@
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.9.0",
+    "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.0",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
@@ -13,12 +14,12 @@
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
+    "hubot-scorekeeper": "dameleon/hubot-scorekeeper.git",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^2.2.0",
     "hubot-youtube": "^0.1.2",
-    "hubot-zoi": "^0.1.0",
-    "hubot-scorekeeper": "dameleon/hubot-scorekeeper.git"
+    "hubot-zoi": "^0.1.0"
   },
   "engines": {
     "node": "0.10.x"

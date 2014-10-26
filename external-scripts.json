@@ -9,5 +9,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-zoi",
-  "hubot-scorekeeper"
+  "hubot-scorekeeper",
+  "hubot-diagnostics"
 ]
