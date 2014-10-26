@@ -12,5 +12,6 @@
   "hubot-scorekeeper",
   "hubot-diagnostics",
   "hubot-suddendeath",
-  "hubot-maps"
+  "hubot-maps",
+  "hubot-yahoo-amagumo"
 ]
