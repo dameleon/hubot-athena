@@ -10,5 +10,6 @@
   "hubot-youtube",
   "hubot-zoi",
   "hubot-scorekeeper",
-  "hubot-diagnostics"
+  "hubot-diagnostics",
+  "hubot-suddendeath"
 ]
