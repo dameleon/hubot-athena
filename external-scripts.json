@@ -11,5 +11,6 @@
   "hubot-zoi",
   "hubot-scorekeeper",
   "hubot-diagnostics",
-  "hubot-suddendeath"
+  "hubot-suddendeath",
+  "hubot-maps"
 ]
