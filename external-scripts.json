@@ -13,5 +13,6 @@
   "hubot-diagnostics",
   "hubot-suddendeath",
   "hubot-maps",
-  "hubot-yahoo-amagumo"
+  "hubot-yahoo-amagumo",
+  "hubot-fillup"
 ]
