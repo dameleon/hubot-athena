@@ -22,7 +22,7 @@
     "hubot-suddendeath": "0.0.3",
     "hubot-yahoo-amagumo": "0.0.3",
     "hubot-youtube": "^0.1.2",
-    "hubot-zoi": "^0.1.0"
+    "hubot-zoi": "dameleon/hubot-zoi.git"
   },
   "engines": {
     "node": "0.10.x"
